@@ -5,6 +5,10 @@
 - [Node](https://nodejs.org/) ❗
 - [Deno](https://deno.land/)
 
+## Package manager
+- [npm]
+- [yarn]
+
 ## Transpiler
 
 - [Babel](https://babeljs.io/) ❗
